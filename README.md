@@ -1,6 +1,6 @@
 # proyecto
 
-## Grupo 5
-- Henry Ray Medina Rodríguez
-- Fernando Contreras Tueros
-- Victor Henostroza Villacorta
+## Grupo 7
+- Aldo Siu
+- Martin Verastegui
+- Jesus 
